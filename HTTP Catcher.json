@@ -1,43 +1,18 @@
 {
+   
+   "http catcher":{
 
-    "WeChat":{
+        "name":"http catcher规则",
 
-        "name":"朋友圈图片评论",
+        "version":"1.3",
 
-        "version":"1.15",
+        "Update_log":"修改更新接口",
 
-        "version_intro":"修复斗图图片不能抓取动图BUG！",
+        "update":"https://www.icloud.com/shortcuts/70fa62aef764484fa4eeb9a5eebce7ef",
 
-        "about":"图片上传公网，勿含有隐私或非法内容！追踪IP后果自负！数据无法找回或删除！",
-
-        "update":"https://www.icloud.com/shortcuts/38a7d913037b412d92202deff108bca0",
-
-        "imageUpload":"aHR0cHM6Ly9zaGltby5pbS9hcGkvdXBsb2FkL3Rva2Vu",
-
-        "imageBack":"aHR0cHM6Ly91cGxvYWRlci5zaGltby5pbS91cGxvYWQy",
-
-        "Readme_tip":"请到朋友圈粘贴评论",
-
-        "imageurl":"https://www.diydoutu.com/api/",
-
-        
-
-        "shorturl":"https://api.taokouling.com/tkl/shorturlshorten",
-
-        "apikey":"EIXVnDacdV",
-
-        
-
-        
+        "Document”:"https://shimo.im/docs/ZufheJA1WrAPPOhb",
+       
 
 
-
-        
-
-
-
-        "结尾":"...................................................................................."
-
-    },
-
-}
+      },
+ }
