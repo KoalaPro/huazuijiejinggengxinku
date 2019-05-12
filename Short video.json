@@ -1,0 +1,20 @@
+{
+      "Short_video":{
+       
+       "weishi":"https://api.w0ai1uo.org/api/weishi.php?url=",
+
+        "meipai":"https://api.w0ai1uo.org/api/meipai.php?url=",
+
+        "yy":"https://api.w0ai1uo.org/api/yy.php?url=",
+
+        "kuaishou":"https://api.w0ai1uo.org/api/kuaishou.php?url=",
+
+        "weibo":"https://api.w0ai1uo.org/api/weibogs.php?url=",
+
+         "xia":"https://api.w0ai1uo.org/api/ppx.php?url=",
+
+         "huoshan":"https://api.w0ai1uo.org/api/huoshan.php?url=",
+
+           }
+
+}
