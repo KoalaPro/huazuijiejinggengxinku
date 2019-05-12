@@ -15,6 +15,8 @@
 
          "huoshan":"https://api.w0ai1uo.org/api/huoshan.php?url=",
 
-           }
+         "douyin":"https://api.w0ai1uo.org/api/douyin.php?url=",
+         
+  }
 
 }
