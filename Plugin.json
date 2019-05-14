@@ -2,8 +2,10 @@
 
       "Plugin":{
 
-      "name":"越狱插件推荐"
+      "name":"越狱插件推荐",
 
-      "version":"1.4"
+      "version":"1.4",
     
-      "
+      "Update":
+
+      "Update_log":"增加新文章，优化运行速度。",
