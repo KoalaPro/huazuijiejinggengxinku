@@ -1,0 +1,9 @@
+{
+        "serial_number":{
+        "name":"手机序列号查询",
+        "version":"1.0",
+        "Update_log":"",
+        "Update":"",
+        "API":"https://applebaoxiu.wang/SNQueryServer/app/wx0e4212d51d3eff43/apple?sn=",
+         }
+}
