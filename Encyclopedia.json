@@ -1,0 +1,11 @@
+{
+    { "Encyclopedia":
+      "name":"国家百科",
+      "version":"1.0",
+      "Update_log":"",
+      "Update":"",
+      "api1":"https://api.idongde.com/country/",
+      "api2":"https://img.idongde.com/public/country/",
+      "Copyright_Information":"by：花小醉",
+     }
+}
