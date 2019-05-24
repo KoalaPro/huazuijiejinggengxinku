@@ -1,7 +1,7 @@
 {
       "Encyclopedia":{
       "name":"国家百科",
-      "version":"1.0",
+      "version":"1.1",
       "Update_log":"增加国歌接口，了解的同时也感受一下一个国家的精神歌曲。",
       "Update":"https://www.icloud.com/shortcuts/3cd6aea5d5de4c0c87ccfd0726dd02ed",
       "api1":"https://api.idongde.com/country/",
