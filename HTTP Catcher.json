@@ -4,11 +4,11 @@
 
         "name":"http catcher规则",
 
-        "version":"1.5",
+        "version":"1.6",
 
-        "Update_log":"小更新，修复问题。",
+        "Update_log":"增加一键导入。",
 
-        "update":"https://www.icloud.com/shortcuts/8228cdb02b584644aa2400b0262379a4",
+        "update":"https://www.icloud.com/shortcuts/ba16c529a7214636ac066c1b4aa45d3b",
 
         "Document":"https://shimo.im/docs/ZufheJA1WrAPPOhb",
        
@@ -17,7 +17,9 @@
         "Exchange_group":"https://jq.qq.com/?_wv=1027&k=5H6tnhH",
 
         "article":"https://mp.weixin.qq.com/s/nPmVWU3wiZA6F3Ov2FjFOw",
-            }
+        "api":"http-catcher://rewrites/new?payload=",
+        "Copyright_Information":"By：花小醉",
+ 
  
 }   
           
